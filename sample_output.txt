@@ -1,0 +1,18 @@
+======================================
+ Linux System Monitoring Report
+ Date: Tue Apr 29 15:30:00 KST 2026
+======================================
+
+[1] CPU Load
+15:30:00 up 2 days, 3:12, 1 user, load average: 0.20, 0.18, 0.15
+
+[2] Memory Usage
+              total        used        free
+Mem:           7.7Gi       3.1Gi       2.8Gi
+
+[3] Disk Usage
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        50G   20G   28G  42% /
+
+[4] Network Check
+PING google.com: 4 packets transmitted, 4 received, 0% packet loss
